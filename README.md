@@ -17,8 +17,7 @@
 # Записи занятий
 Занятие | О чем |Видео
 --- | --- | ---
-22-11-2021 | Инструменты (Git, Anaconda). Pandas. | 
-
+22-11-2021 | Инструменты (Git, Anaconda). Pandas. | https://yadi.sk/d/eLgU9v1THwNOLg
 
 # Что поизучать
 Базовый питон: https://pythontutor.ru/ 
