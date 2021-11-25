@@ -17,8 +17,9 @@
 # Записи занятий
 Занятие | О чем |Видео
 --- | --- | ---
-22-11-2021 | Инструменты (Git, Anaconda). Pandas. | https://yadi.sk/d/eLgU9v1THwNOLg
-
+22-11-2021 | Инструменты (Git, Anaconda). Pandas. | https://yadi.sk/d/eLgU9v1THwNOLg |
+24-11-2021 | Pandas | https://zoom.us/rec/play/anoX12SwkgICwhMMB1jBTlqeQmjV1fpS77Py3pmSW_HrRB_gcrsoJaH8yzNct1nVZLd2OyisrMCQdhQ8.vKPQqzp5DNhsRzer?startTime=1637768707000&_x_zm_rtaid=pBccJyEHQ3WmCuMPK5celw.1637822845414.c9dfe89d0b2c27c2f714a9b3717fab9a&_x_zm_rhtaid=16 | Код: 3@xni3^+
+3@xni3^+
 # Что поизучать
 Базовый питон: https://pythontutor.ru/ 
 
